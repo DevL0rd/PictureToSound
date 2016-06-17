@@ -1,0 +1,37 @@
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\bin\Debug\PictureToSound.exe.config
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\bin\Debug\PictureToSound.exe
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\bin\Debug\PictureToSound.pdb
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\bin\Debug\PictureToSound.xml
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\obj\Debug\PictureToSound.vbprojResolveAssemblyReference.cache
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\obj\Debug\WindowsApplication1.Form1.resources
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\obj\Debug\WindowsApplication1.Resources.resources
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\obj\Debug\PictureToSound.vbproj.GenerateResource.Cache
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\obj\Debug\PictureToSound.exe
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\obj\Debug\PictureToSound.xml
+s:\Dustin\Documents\Visual Studio 15\Projects\PictureToSound\PictureToSound\obj\Debug\PictureToSound.pdb
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\bin\Debug\PictureToSound.exe.config
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\obj\Debug\PictureToSound.exe
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\obj\Debug\PictureToSound.xml
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\obj\Debug\PictureToSound.pdb
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\bin\Debug\PictureToSound.exe
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\bin\Debug\PictureToSound.pdb
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\bin\Debug\PictureToSound.xml
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\obj\Debug\PictureToSound.vbprojResolveAssemblyReference.cache
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\duharris-a\Desktop\PictureToSound\PictureToSound\obj\Debug\PictureToSound.vbproj.GenerateResource.Cache
+S:\Dropbox\Development\PictureToSound\PictureToSound\bin\Debug\PictureToSound.exe.config
+S:\Dropbox\Development\PictureToSound\PictureToSound\obj\Debug\PictureToSound.exe
+S:\Dropbox\Development\PictureToSound\PictureToSound\obj\Debug\PictureToSound.xml
+S:\Dropbox\Development\PictureToSound\PictureToSound\obj\Debug\PictureToSound.pdb
+S:\Dropbox\Development\PictureToSound\PictureToSound\bin\Debug\PictureToSound.exe
+S:\Dropbox\Development\PictureToSound\PictureToSound\bin\Debug\PictureToSound.pdb
+S:\Dropbox\Development\PictureToSound\PictureToSound\bin\Debug\PictureToSound.xml
+S:\Dropbox\Development\PictureToSound\PictureToSound\obj\Debug\PictureToSound.vbprojResolveAssemblyReference.cache
+S:\Dropbox\Development\PictureToSound\PictureToSound\obj\Debug\WindowsApplication1.Form1.resources
+S:\Dropbox\Development\PictureToSound\PictureToSound\obj\Debug\WindowsApplication1.Resources.resources
+S:\Dropbox\Development\PictureToSound\PictureToSound\obj\Debug\PictureToSound.vbproj.GenerateResource.Cache
+C:\Users\dmhzmxn\Dropbox\Development\PictureToSound\PictureToSound\bin\Debug\PictureToSound.exe.config
+C:\Users\dmhzmxn\Dropbox\Development\PictureToSound\PictureToSound\obj\Debug\PictureToSound.exe
+C:\Users\dmhzmxn\Dropbox\Development\PictureToSound\PictureToSound\obj\Debug\PictureToSound.xml
+C:\Users\dmhzmxn\Dropbox\Development\PictureToSound\PictureToSound\obj\Debug\PictureToSound.pdb
